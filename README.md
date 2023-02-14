@@ -1,6 +1,3 @@
 # mspassportchallenge
-
-/* To do 
+ To do 
     fix deployment issue 
-
-    */
